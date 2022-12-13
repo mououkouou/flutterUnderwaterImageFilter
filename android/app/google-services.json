@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699439669609",
+    "project_id": "diveflash-d5c42",
+    "storage_bucket": "diveflash-d5c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699439669609:android:ad3495417d052fd7731df8",
+        "android_client_info": {
+          "package_name": "com.killerwhale.Diveflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699439669609-768agh6jmf9stfusq4jb0ahqqq11qs1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW7Kfq0L5ejpUiYkQFaeSB_jyiwLRvDSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699439669609-768agh6jmf9stfusq4jb0ahqqq11qs1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

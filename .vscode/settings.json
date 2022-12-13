@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/android",
+    "files.associations": {
+        "xstring": "cpp",
+        "iosfwd": "cpp"
+    }
+}
